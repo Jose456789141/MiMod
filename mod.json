@@ -1,0 +1,8 @@
+{
+  "geode": "3.0.0",
+  "id": "tu.nombre.saltoasistido",
+  "name": "Asistencia de Saltos",
+  "version": "1.0.0",
+  "developer": "TuNombre",
+  "description": "Mod que corrige y prolonga la trayectoria en los saltos usando hitboxes a medio bloque."
+}
